@@ -1,0 +1,21 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid cea3f6d2-7cb6-428b-8fed-88c048b6a654)
+
+  (paper "A4")
+
+  (title_block
+    (title "UINIO-MCU-RP2040")
+    (date "2024-01-15")
+    (rev "Version 1.0.0")
+    (company "UinIO.com 电子技术实验室")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
