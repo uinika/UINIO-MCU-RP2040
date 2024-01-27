@@ -5706,6 +5706,11 @@
       (net 43 "/GPIO29_ADC3") (pinfunction "S") (pintype "passive") (tstamp 6a72696c-dfeb-4b32-bbeb-7bdbb3b7c376))
     (pad "3" smd rect (at 0.645 0 180) (size 0.51 0.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 7 "Net-(Q1-D)") (pinfunction "D") (pintype "passive") (tstamp f1221599-bb8b-41d6-b606-02877966939d))
+    (model "${KIPRJMOD}/Libraries/Uinio.3D/SOT-523-STP.stp"
+      (offset (xyz 0 -0.8 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 90))
+    )
   )
 
   (footprint "Uinio:Hole-2mm" (layer "F.Cu")
