@@ -3381,7 +3381,7 @@
       (net 61 "Net-(J3-Pin_3)") (pinfunction "Pin_3") (pintype "passive") (tstamp bc41ed69-50ec-43bd-83a5-d7a332329779))
     (pad "4" thru_hole oval (at 0 7.62) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 1 "GND") (pinfunction "Pin_4") (pintype "passive") (tstamp 3105c725-1c21-487e-afce-26d131170de1))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Vertical.wrl"
+    (model "${KICAD7_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
