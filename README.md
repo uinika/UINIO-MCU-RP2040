@@ -30,4 +30,4 @@
 [UinIO.com 电子技术实验室](http://uinio.com/) 为 UINIO-MCU-RP2040 开源项目提供了如下一系列技术参考资料：
 
 - [《BOM 交互式物料清单与 PCB 布线在线预览》](http://uinio.com/archives/BOM/UINIO-MCU-RP2040.html)
-- [《树莓派 UINIO-MCU-RP2040 核心板实践指南》](http://uinio.com/Project/UINIO-MCU-RP2040/)
+- [《基于树莓派 UINIO-MCU-RP2040 核心板制作逻辑分析仪》](http://uinio.com/Project/UINIO-MCU-RP2040/)
