@@ -1,4 +1,4 @@
-### Footprint positions - created on Wed Jan 31 11:17:16 2024 ###
+### Footprint positions - created on Sun Feb  4 11:21:17 2024 ###
 ### Printed by KiCad version 7.0.10
 ## Unit = mm, Angle = deg.
 ## Side : All
@@ -15,18 +15,16 @@ C9        2.2uF               C_0402_1005Metric                       25.8800   
 C10       0.1uF               C_0402_1005Metric                       35.7800   -17.1900  -90.0000  top
 C11       0.1uF               C_0402_1005Metric                       25.8800   -15.9000  180.0000  top
 C12       2.2uF               C_0402_1005Metric                       22.9300    -8.1025  180.0000  top
-C13       0.1uF               C_0402_1005Metric                       48.4300   -11.3700    0.0000  top
-C14       0.1uF               C_0402_1005Metric                       48.4500   -14.1700    0.0000  top
 C15       2.2uF               C_0402_1005Metric                       22.9300    -9.3250  180.0000  top
 C16       1nF                 C_0402_1005Metric                       40.9700   -15.0317    0.0000  top
 C17       0.1uF               C_0402_1005Metric                       36.3490    -7.9100    0.0000  top
 D1        1N5819              D_SOD-123                                8.2200   -16.6000  180.0000  top
 D2        LED_Red             LED_0603_1608Metric                     13.2700    -7.1300    0.0000  top
 D3        LED_Blue            LED_0603_1608Metric                     20.2100    -7.1300    0.0000  top
-HOLE**    Hole-2mm            Hole-2mm                                53.6300   -22.2400    0.0000  top
 HOLE**    Hole-2mm            Hole-2mm                                -1.7800    -3.1600    0.0000  top
 HOLE**    Hole-2mm            Hole-2mm                                -1.7800   -22.2300    0.0000  top
 HOLE**    Hole-2mm            Hole-2mm                                53.6300    -3.1600    0.0000  top
+HOLE**    Hole-2mm            Hole-2mm                                53.6300   -22.2400    0.0000  top
 J1        Conn_01x20_Pin      PinHeader_1x20_P2.54mm_Vertical          1.8000   -24.0600   90.0000  top
 J2        Conn_01x20_Pin      PinHeader_1x20_P2.54mm_Vertical          1.8000    -1.3400   90.0000  top
 J3        Conn_01x04_Pin      PinHeader_1x04_P2.54mm_Vertical         55.5500    -8.8950    0.0000  top
@@ -36,14 +34,15 @@ R2        5.1K                R_0603_1608Metric                        7.8200   
 R3        5.1K                R_0603_1608Metric                        7.8200    -9.0900    0.0000  top
 R4        2K                  R_0603_1608Metric                       13.2700    -9.0900  180.0000  top
 R5        1.5K                R_0402_1005Metric                       18.0800   -19.0100  -90.0000  top
-R6        27K                 R_0402_1005Metric                        7.8100   -13.4400  180.0000  top
-R7        27K                 R_0402_1005Metric                        7.8100   -11.9400  180.0000  top
+R6        27R                 R_0402_1005Metric                        7.8100   -13.4400  180.0000  top
+R7        27R                 R_0402_1005Metric                        7.8100   -11.9400  180.0000  top
 R8        470R                R_0402_1005Metric                       22.9300    -6.8700    0.0000  top
 R9        100K                R_0402_1005Metric                       40.9500   -13.8600    0.0000  top
 R10       200K                R_0402_1005Metric                       40.9500   -18.5450  180.0000  top
 R11       1R                  R_0402_1005Metric                       20.6100   -10.5375    0.0000  top
 R12       200R                R_0603_1608Metric                       20.1900    -8.9837  180.0000  top
-R13       1K                  R_0402_1005Metric                       46.0700   -14.1700    0.0000  top
+R13       1K                  R_0402_1005Metric                       48.5090   -14.1000    0.0000  top
+R14       10K                 R_0402_1005Metric                       48.5090   -11.4500  180.0000  top
 SW1       ~{RESET}            KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7        47.2500    -8.9227    0.0000  top
 SW2       ~{USB_BOOT}         KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7        47.2500   -16.6276    0.0000  top
 U1        SGM2019-3.3YN5G     SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR       13.4500   -16.6100  -90.0000  top
