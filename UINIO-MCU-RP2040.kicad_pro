@@ -86,7 +86,7 @@
         "items_not_allowed": "error",
         "length_out_of_range": "error",
         "lib_footprint_issues": "warning",
-        "lib_footprint_mismatch": "warning",
+        "lib_footprint_mismatch": "ignore",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "missing_courtyard": "ignore",
@@ -224,7 +224,9 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "multiple_net_names|2476500|977900|2048f7f1-a390-4826-ac25-f141a7186ebe|308a8e90-0922-4eb9-9c1e-6698332f4724|||"
+    ],
     "meta": {
       "version": 0
     },
