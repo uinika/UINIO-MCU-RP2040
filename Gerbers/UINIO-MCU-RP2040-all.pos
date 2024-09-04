@@ -1,5 +1,5 @@
-### Footprint positions - created on Sun Apr 21 14:39:05 2024 ###
-### Printed by KiCad version 7.0.11
+### Footprint positions - created on 2024-09-04T11:41:54+0800 ###
+### Printed by KiCad version 8.0.4
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val                 Package                                    PosX       PosY       Rot  Side
@@ -22,9 +22,9 @@ D1        1N5819              D_SOD-123                                8.2200   
 D2        LED_Red             LED_0603_1608Metric                     13.2700    -7.1300    0.0000  top
 D3        LED_Blue            LED_0603_1608Metric                     20.2100    -7.1300    0.0000  top
 HOLE**    Hole-2mm            Hole-2mm                                -1.7800    -3.1600    0.0000  top
-HOLE**    Hole-2mm            Hole-2mm                                -1.7800   -22.2300    0.0000  top
 HOLE**    Hole-2mm            Hole-2mm                                53.6300    -3.1600    0.0000  top
 HOLE**    Hole-2mm            Hole-2mm                                53.6300   -22.2400    0.0000  top
+HOLE**    Hole-2mm            Hole-2mm                                -1.7800   -22.2300    0.0000  top
 J1        Conn_01x20_Pin      PinHeader_1x20_P2.54mm_Vertical          1.8000   -24.0600   90.0000  top
 J2        Conn_01x20_Pin      PinHeader_1x20_P2.54mm_Vertical          1.8000    -1.3400   90.0000  top
 J3        Conn_01x04_Pin      PinHeader_1x04_P2.54mm_Vertical         55.5500    -8.8950    0.0000  top
