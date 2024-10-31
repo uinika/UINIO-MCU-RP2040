@@ -33,7 +33,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "dec58f8e-09b3-4806-8b31-33e0dbfe250e")
+		(uuid "949ea19d-fbb9-44fe-8925-5d855d862e84")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45,7 +45,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "35626d71-d948-40b6-b506-cb73f5c0b6b1")
+		(uuid "5c7a2443-b5a0-4748-ab25-f90de8defb78")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -57,7 +57,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "58f543d9-1dd2-46b8-85bc-69f31c432fc3")
+		(uuid "bf813619-9aaa-4412-91dc-1e1347dc4655")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -87,6 +87,17 @@
 		(fill none)
 		(layer "F.SilkS")
 		(uuid "4ea2096f-a6cf-4b4d-a9b8-8ea40b346768")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.9 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "Margin")
+		(uuid "458354d0-e83d-48eb-b386-04ea5cdbad9c")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 4 0)
