@@ -1,4 +1,4 @@
-### Footprint positions - created on 2024-11-01T18:27:52+0800 ###
+### Footprint positions - created on 2024-11-02T17:28:05+0800 ###
 ### Printed by KiCad version 8.0.6
 ## Unit = mm, Angle = deg.
 ## Side : All
@@ -15,12 +15,12 @@ C9        2.2uF               C_0402_1005Metric                       27.8610   
 C10       0.1uF               C_0402_1005Metric                       37.5900   -18.7400  -90.0000  top
 C11       0.1uF               C_0402_1005Metric                       27.8610   -17.1800  180.0000  top
 C12       2.2uF               C_0402_1005Metric                       24.9110    -9.3825  180.0000  top
-C15       2.2uF               C_0402_1005Metric                       24.9110   -10.6050  180.0000  top
+C15       2.2uF               C_0402_1005Metric                       23.1010   -10.3000   90.0000  top
 C16       1nF                 C_0402_1005Metric                       42.9510   -16.3117    0.0000  top
 C17       0.1uF               C_0402_1005Metric                       38.3300    -9.1900    0.0000  top
 D1        1N4007              Nexperia_CFP3_SOD-123W                   9.4100   -20.0050  -90.0000  top
 D2        LED_Red             LED_0603_1608Metric                     15.7450    -7.0500    0.0000  top
-D3        LED_Blue            LED_0603_1608Metric                     22.1910    -8.4100    0.0000  top
+D3        LED_Blue            LED_0603_1608Metric                     22.1910    -7.0500    0.0000  top
 D4        LESD5D5.0CT1G       D_SOD-523                                9.8100   -12.7200  -90.0000  top
 D5        LESD5D5.0CT1G       D_SOD-523                                9.8100   -15.2200   90.0000  top
 F1        60V_1A              Fuse_1206_3216Metric                    11.8150   -19.9825  -90.0000  top
@@ -42,8 +42,8 @@ R7        27R                 R_0402_1005Metric                       11.9100   
 R8        470R                R_0402_1005Metric                       24.9110    -8.1500    0.0000  top
 R9        100K                R_0402_1005Metric                       42.9310   -15.1400    0.0000  top
 R10       200K                R_0402_1005Metric                       42.9310   -19.8250  180.0000  top
-R11       1R                  R_0402_1005Metric                       22.5910   -11.8175    0.0000  top
-R12       200R                R_0603_1608Metric                       22.1710   -10.2637  180.0000  top
+R11       1R                  R_0402_1005Metric                       21.3082   -10.2800  -90.0000  top
+R12       200R                R_0603_1608Metric                       22.1710    -8.4700  180.0000  top
 R13       1K                  R_0402_1005Metric                       50.4900   -15.3800    0.0000  top
 R14       10K                 R_0402_1005Metric                       50.4900   -12.7300  180.0000  top
 SW1       ~{RESET}            KEY-SMD_4P-L4.2-W3.4-P2.15-LS4.7        49.2310   -10.2027    0.0000  top

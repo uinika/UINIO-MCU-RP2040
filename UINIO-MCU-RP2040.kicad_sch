@@ -12416,7 +12416,7 @@
 			)
 		)
 		(property "Value" "200R"
-			(at 358.14 76.2 90)
+			(at 358.394 76.708 90)
 			(effects
 				(font
 					(size 1.27 1.27)
